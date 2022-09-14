@@ -7,13 +7,13 @@
   <a href="{Linkedin Profile Link}">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCuWtI419NIzDDoM-es_q1Hw">
+  <a href="https://www.youtube.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/gear_shell">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/gearshell/">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href=#>
@@ -21,7 +21,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GearShell&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=IshanTiwari007&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -31,11 +31,11 @@
 
 ### :man_technologist: About Me : Hey its Ishan a.k.a. (Ishan)
 I am a Back-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a ReactJS Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Laravel Developer and contributing to Backend for building web applications.
 
-- :seedling: I am a Guy with Linux on his PC.
+- :seedling: 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank, LeetCode and read tech articles.
+- :zap: I use to create full-stack Web Applictaion with Laravel , Php , JavaScript ,etc.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IshanTiwari-blue?style=flat&logo=Linkedin&logoColor=white)](Your Linked PRofile Link)
 - ---
